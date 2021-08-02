@@ -7,3 +7,4 @@ Rango medición de temperatura: -10C - 100C
 Rango de vibración (medida en G's): máximo 5G
 Rango de peso: 10Kg
 Protección IP56 
+PIC18F47k42
